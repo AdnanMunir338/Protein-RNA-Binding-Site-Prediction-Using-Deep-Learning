@@ -25,4 +25,10 @@ regulation with potential relevance to cancer and reproductive biology.
 
 ![image](https://github.com/user-attachments/assets/7b277d45-7a76-4593-938d-53d8cae7df29)
 
+** Dataset Availbilty**
+
+Dataset used in this work can be found fromm the given link:
+
+https://drive.google.com/drive/folders/1nRJ_o4JT9lRcmOcCVRtv4TYseNhN-8zc?usp=drive_link
+
 
